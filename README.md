@@ -38,8 +38,14 @@ Disciplina: Oficina de Integração II - 2024
 git clone https://github.com/seu-usuario/glauber-ai.git
 cd glauber-ai
 
+
 # Instale as dependências
 pip install -r requirements.txt
 
 # Rode o projeto
 python main.py
+
+```
+
+## 📄 Licença
+Este projeto é de livre uso para fins educacionais.
