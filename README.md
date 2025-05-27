@@ -43,3 +43,8 @@ pip install -r requirements.txt
 
 # Rode o projeto
 python main.py
+
+---
+
+##📄 Licença
+Este projeto é de livre uso para fins educacionais.
