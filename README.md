@@ -10,7 +10,7 @@ O Glauber é uma inteligência artificial treinada para reconhecer dígitos de 0
 
 O projeto conquistou o **3º lugar na SNCT 2024**, evento realizado no IFSC Campus Chapecó.
 
-![Certificado](certificado_snct.pdf)
+![Certificado](docs/certificado_snct.pdf)
 
 ## 👥 Participantes
 
