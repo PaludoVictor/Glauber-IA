@@ -38,23 +38,8 @@ Disciplina: Oficina de Integração II - 2024
 git clone https://github.com/seu-usuario/glauber-ai.git
 cd glauber-ai
 
-
----
-
-2. **Instale as dependências**
-
-```bash
+# Instale as dependências
 pip install -r requirements.txt
 
-
-
----
-
-
-
-3. **Rode o projeto**
-
-```bash
-python src/main.py
-
-
+# Rode o projeto
+python main.py
