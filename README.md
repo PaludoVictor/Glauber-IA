@@ -58,7 +58,7 @@ Disciplina: Oficina de Integração II - 2024
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/glauber-ai.git
+git clone https://github.com/PaludoVictor/Glauber-IA
 cd glauber-ai
 
 
