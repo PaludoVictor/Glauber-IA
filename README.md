@@ -21,6 +21,8 @@ O projeto conquistou o **3º lugar na SNCT 2024**, evento realizado no IFSC Camp
 - Victor MAier Paludo (Aluno)
 - Prof. Fabiner de Melo Fugali (Orientador)
 
+![Participantes](participantes.jpg)
+
 IFSC - Campus Chapecó
 Disciplina: Oficina de Integração II - 2024
 
