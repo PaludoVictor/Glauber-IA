@@ -37,16 +37,6 @@ class Neuronio:
         self.matriz_formatada = matriz_formatada
         self.valor2 = Neuronio.calcular(self.neuronio, self.matriz_formatada, n_coluna, n_linha)
 
-    def aprender(self, numero):
-        """Atualiza os pesos do neurônio com base na matriz formatada e salva no arquivo."""
-        arq = open(self.arq_neuronio, 'w')
-        for a in range(28):
-            for b in range(28):
-                if self.matriz_formatada[a][b] == 1:
-                    self.neuronio[a][b] += numero
-            arq.write(str(self.neuronio[a])+'\n')
-        arq.close()
-
 class Main:
     """Classe que processa imagens e realiza o reconhecimento de números usando neurônios."""
 
