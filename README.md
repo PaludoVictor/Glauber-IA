@@ -24,11 +24,7 @@ O projeto conquistou o **3º lugar na SNCT 2024**, evento realizado no IFSC Camp
 IFSC - Campus Chapecó
 Disciplina: Oficina de Integração II - 2024
 
-## 🧠 Descrição da Lógica
-
-O **Glauber** é um projeto de Inteligência Artificial simples que reconhece dígitos de 0 a 9 a partir de imagens de **28x28 pixels**, com fundo preto e número branco.
-
-### 🧩 Como funciona:
+## 🧩 Como funciona:
 
 1. **Arquivos de neurônios**  
    Cada dígito (0 a 9) possui 3 arquivos `.txt`, cada um contendo uma matriz 28x28 com valores inteiros que funcionam como pesos.
