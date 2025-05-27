@@ -28,14 +28,24 @@ Disciplina: Oficina de Integração II - 2024
 
 ### Requisitos
 
-- Python 3.10+
-- Clone o repositorio 
-- Instale as dependências com:
+- Python 3.10+ instalado
+
+### Passos
+
+1. **Clone o repositório**
+
+```bash
+git clone https://github.com/seu-usuario/glauber-ai.git
+cd glauber-ai
+
+2. **Instale as dependências**
 
 ```bash
 pip install -r requirements.txt
 
+3. **Rode o projeto**
+
 ```bash
-pip install -r requirements.txt
+python src/main.py
 
 
